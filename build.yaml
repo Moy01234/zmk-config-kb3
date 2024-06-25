@@ -18,4 +18,5 @@
 #
 ---
 include:
-  - board: planck_rev6
+  - board: sparkfun_pro_micro_rp2040
+    shield: kb3
